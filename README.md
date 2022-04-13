@@ -1,4 +1,4 @@
-# Automated-Meeting-Planner-Nondynamic
+# Automated-Meeting-Planner
 Simplified automated meeting planner using Laravel.
 
 
