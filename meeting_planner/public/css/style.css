@@ -1,0 +1,58 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #555;
+}
+h1 {
+    color: white;
+    text-align: center;
+    margin-top: 3rem;
+}       
+label {
+    color:white;
+}    
+h2 {
+    color: white;
+    margin-bottom: 3rem;
+    
+}
+h3 {
+    color:white;
+}
+
+table, tr, th, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+    padding:2rem;
+}
+tr+tr {
+    cursor: pointer;
+}
+th, td {
+    text-align: center;
+}
+th, td {
+    color:white
+}
+table {
+    width:80%;
+    margin: 0 auto;
+    margin-top: 6rem;
+}
+
+nav {
+    text-align: center;
+    font-size: 1.5rem;
+}
+nav li {
+    margin-right: 1rem;
+}
+
+nav a:hover {
+
+    background-color: darkgrey;
+}
+
+.ulMeet {
+    list-style: none;
+}
+    
